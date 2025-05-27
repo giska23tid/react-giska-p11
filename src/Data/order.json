@@ -1,0 +1,273 @@
+[
+    {
+      "orderId": 1,
+      "userId": 5,
+      "product": "Laptop Asus ROG",
+      "quantity": 1,
+      "totalPrice": 25000000,
+      "status": "Processing",
+      "orderDate": "2025-04-10"
+    },
+    {
+      "orderId": 2,
+      "userId": 3,
+      "product": "iPhone 14 Pro",
+      "quantity": 1,
+      "totalPrice": 20000000,
+      "status": "Shipped",
+      "orderDate": "2025-04-11"
+    },
+    {
+      "orderId": 3,
+      "userId": 1,
+      "product": "Samsung Galaxy S23",
+      "quantity": 2,
+      "totalPrice": 32000000,
+      "status": "Delivered",
+      "orderDate": "2025-04-12"
+    },
+    {
+      "orderId": 4,
+      "userId": 7,
+      "product": "Smartwatch Garmin",
+      "quantity": 1,
+      "totalPrice": 7000000,
+      "status": "Processing",
+      "orderDate": "2025-04-13"
+    },
+    {
+      "orderId": 5,
+      "userId": 9,
+      "product": "Xiaomi Vacuum Cleaner",
+      "quantity": 1,
+      "totalPrice": 3500000,
+      "status": "Cancelled",
+      "orderDate": "2025-04-14"
+    },
+    {
+      "orderId": 6,
+      "userId": 2,
+      "product": "Sony WH-1000XM4 Headphones",
+      "quantity": 1,
+      "totalPrice": 4500000,
+      "status": "Delivered",
+      "orderDate": "2025-04-15"
+    },
+    {
+      "orderId": 7,
+      "userId": 4,
+      "product": "Canon EOS M50 Camera",
+      "quantity": 1,
+      "totalPrice": 9000000,
+      "status": "Shipped",
+      "orderDate": "2025-04-16"
+    },
+    {
+      "orderId": 8,
+      "userId": 6,
+      "product": "Apple MacBook Air",
+      "quantity": 1,
+      "totalPrice": 18000000,
+      "status": "Processing",
+      "orderDate": "2025-04-17"
+    },
+    {
+      "orderId": 9,
+      "userId": 8,
+      "product": "Samsung Smart TV 55\"",
+      "quantity": 1,
+      "totalPrice": 15000000,
+      "status": "Delivered",
+      "orderDate": "2025-04-18"
+    },
+    {
+      "orderId": 10,
+      "userId": 10,
+      "product": "PlayStation 5",
+      "quantity": 1,
+      "totalPrice": 8500000,
+      "status": "Shipped",
+      "orderDate": "2025-04-19"
+    },
+    {
+      "orderId": 11,
+      "userId": 12,
+      "product": "Nintendo Switch",
+      "quantity": 1,
+      "totalPrice": 5000000,
+      "status": "Delivered",
+      "orderDate": "2025-04-20"
+    },
+    {
+      "orderId": 12,
+      "userId": 11,
+      "product": "GoPro Hero 10",
+      "quantity": 1,
+      "totalPrice": 6000000,
+      "status": "Processing",
+      "orderDate": "2025-04-21"
+    },
+    {
+      "orderId": 13,
+      "userId": 13,
+      "product": "HP LaserJet Printer",
+      "quantity": 1,
+      "totalPrice": 3000000,
+      "status": "Shipped",
+      "orderDate": "2025-04-22"
+    },
+    {
+      "orderId": 14,
+      "userId": 15,
+      "product": "JBL Bluetooth Speaker",
+      "quantity": 2,
+      "totalPrice": 3000000,
+      "status": "Delivered",
+      "orderDate": "2025-04-23"
+    },
+    {
+      "orderId": 15,
+      "userId": 14,
+      "product": "Dyson Air Purifier",
+      "quantity": 1,
+      "totalPrice": 8500000,
+      "status": "Cancelled",
+      "orderDate": "2025-04-24"
+    },
+    {
+      "orderId": 16,
+      "userId": 16,
+      "product": "Dell XPS 13",
+      "quantity": 1,
+      "totalPrice": 20000000,
+      "status": "Processing",
+      "orderDate": "2025-04-25"
+    },
+    {
+      "orderId": 17,
+      "userId": 18,
+      "product": "ASUS ZenBook",
+      "quantity": 1,
+      "totalPrice": 17000000,
+      "status": "Shipped",
+      "orderDate": "2025-04-26"
+    },
+    {
+      "orderId": 18,
+      "userId": 17,
+      "product": "Logitech MX Master 3",
+      "quantity": 1,
+      "totalPrice": 1500000,
+      "status": "Delivered",
+      "orderDate": "2025-04-27"
+    },
+    {
+      "orderId": 19,
+      "userId": 19,
+      "product": "Epson Projector",
+      "quantity": 1,
+      "totalPrice": 8000000,
+      "status": "Processing",
+      "orderDate": "2025-04-28"
+    },
+    {
+      "orderId": 20,
+      "userId": 20,
+      "product": "Anker Power Bank",
+      "quantity": 2,
+      "totalPrice": 1000000,
+      "status": "Delivered",
+      "orderDate": "2025-04-29"
+    },
+    {
+      "orderId": 21,
+      "userId": 21,
+      "product": "Philips Air Fryer",
+      "quantity": 1,
+      "totalPrice": 2500000,
+      "status": "Shipped",
+      "orderDate": "2025-04-30"
+    },
+    {
+      "orderId": 22,
+      "userId": 23,
+      "product": "Huawei MatePad",
+      "quantity": 1,
+      "totalPrice": 6000000,
+      "status": "Delivered",
+      "orderDate": "2025-05-01"
+    },
+    {
+      "orderId": 23,
+      "userId": 22,
+      "product": "Realme Smartphone",
+      "quantity": 2,
+      "totalPrice": 8000000,
+      "status": "Processing",
+      "orderDate": "2025-05-02"
+    },
+    {
+      "orderId": 24,
+      "userId": 24,
+      "product": "Acer Nitro 5",
+      "quantity": 1,
+      "totalPrice": 16000000,
+      "status": "Shipped",
+      "orderDate": "2025-05-03"
+    },
+    {
+      "orderId": 25,
+      "userId": 25,
+      "product": "MSI Gaming Laptop",
+      "quantity": 1,
+      "totalPrice": 19000000,
+      "status": "Delivered",
+      "orderDate": "2025-05-04"
+    },
+    {
+      "orderId": 26,
+      "userId": 26,
+      "product": "Lenovo IdeaPad",
+      "quantity": 1,
+      "totalPrice": 13000000,
+      "status": "Processing",
+      "orderDate": "2025-05-05"
+    },
+    {
+      "orderId": 27,
+      "userId": 27,
+      "product": "Samsung Galaxy Tab",
+      "quantity": 1,
+      "totalPrice": 7000000,
+      "status": "Shipped",
+      "orderDate": "2025-05-06"
+    },
+    {
+      "orderId": 28,
+      "userId": 28,
+      "product": "Beats Studio Buds",
+      "quantity": 1,
+      "totalPrice": 2500000,
+      "status": "Delivered",
+      "orderDate": "2025-05-07"
+    },
+    {
+      "orderId": 29,
+      "userId": 29,
+      "product": "Razer Gaming Mouse",
+      "quantity": 1,
+      "totalPrice": 1800000,
+      "status": "Processing",
+      "orderDate": "2025-05-08"
+    },
+    {
+      "orderId": 30,
+      "userId": 30,
+      "product": "Apple iPad Air",
+      "quantity": 1,
+      "totalPrice": 12000000,
+      "status": "Delivered",
+      "orderDate": "2025-05-09"
+    }
+  ]
+  

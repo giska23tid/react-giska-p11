@@ -1,0 +1,213 @@
+[
+    {
+      "customerId": 1,
+      "name": "Arianto Prasetyo",
+      "email": "arianto.prasetyo@example.com",
+      "phone": "+628123456781",
+      "address": "Jl. Merdeka No.1, Jakarta"
+    },
+    {
+      "customerId": 2,
+      "name": "Sinta Lestari",
+      "email": "sinta.lestari@example.com",
+      "phone": "+628123456782",
+      "address": "Jl. Sudirman No.2, Bandung"
+    },
+    {
+      "customerId": 3,
+      "name": "Budi Santoso",
+      "email": "budi.santoso@example.com",
+      "phone": "+628123456783",
+      "address": "Jl. Thamrin No.3, Surabaya"
+    },
+    {
+      "customerId": 4,
+      "name": "Dewi Ayu",
+      "email": "dewi.ayu@example.com",
+      "phone": "+628123456784",
+      "address": "Jl. Malioboro No.4, Yogyakarta"
+    },
+    {
+      "customerId": 5,
+      "name": "Rudi Hartono",
+      "email": "rudi.hartono@example.com",
+      "phone": "+628123456785",
+      "address": "Jl. Diponegoro No.5, Semarang"
+    },
+    {
+      "customerId": 6,
+      "name": "Maya Sari",
+      "email": "maya.sari@example.com",
+      "phone": "+628123456786",
+      "address": "Jl. Gatot Subroto No.6, Medan"
+    },
+    {
+      "customerId": 7,
+      "name": "Hendra Gunawan",
+      "email": "hendra.gunawan@example.com",
+      "phone": "+628123456787",
+      "address": "Jl. Ahmad Yani No.7, Palembang"
+    },
+    {
+      "customerId": 8,
+      "name": "Yuni Astuti",
+      "email": "yuni.astuti@example.com",
+      "phone": "+628123456788",
+      "address": "Jl. Pemuda No.8, Makassar"
+    },
+    {
+      "customerId": 9,
+      "name": "Agus Wijaya",
+      "email": "agus.wijaya@example.com",
+      "phone": "+628123456789",
+      "address": "Jl. Asia Afrika No.9, Bali"
+    },
+    {
+      "customerId": 10,
+      "name": "Putri Ramadhani",
+      "email": "putri.ramadhani@example.com",
+      "phone": "+628123456790",
+      "address": "Jl. Pattimura No.10, Malang"
+    },
+    {
+      "customerId": 11,
+      "name": "Dian Purnama",
+      "email": "dian.purnama@example.com",
+      "phone": "+628123456791",
+      "address": "Jl. Slamet Riyadi No.11, Solo"
+    },
+    {
+      "customerId": 12,
+      "name": "Andi Saputra",
+      "email": "andi.saputra@example.com",
+      "phone": "+628123456792",
+      "address": "Jl. Jendral Sudirman No.12, Pekanbaru"
+    },
+    {
+      "customerId": 13,
+      "name": "Sari Utami",
+      "email": "sari.utami@example.com",
+      "phone": "+628123456793",
+      "address": "Jl. Gajah Mada No.13, Batam"
+    },
+    {
+      "customerId": 14,
+      "name": "Rina Wulandari",
+      "email": "rina.wulandari@example.com",
+      "phone": "+628123456794",
+      "address": "Jl. Imam Bonjol No.14, Pontianak"
+    },
+    {
+      "customerId": 15,
+      "name": "Fajar Kurniawan",
+      "email": "fajar.kurniawan@example.com",
+      "phone": "+628123456795",
+      "address": "Jl. Sultan Agung No.15, Samarinda"
+    },
+    {
+      "customerId": 16,
+      "name": "Lia Rahmawati",
+      "email": "lia.rahmawati@example.com",
+      "phone": "+628123456796",
+      "address": "Jl. Soekarno Hatta No.16, Banjarmasin"
+    },
+    {
+      "customerId": 17,
+      "name": "Irwan Hidayat",
+      "email": "irwan.hidayat@example.com",
+      "phone": "+628123456797",
+      "address": "Jl. Hasanuddin No.17, Balikpapan"
+    },
+    {
+      "customerId": 18,
+      "name": "Dewi Sartika",
+      "email": "dewi.sartika@example.com",
+      "phone": "+628123456798",
+      "address": "Jl. Dipati Ukur No.18, Padang"
+    },
+    {
+      "customerId": 19,
+      "name": "Arief Prabowo",
+      "email": "arief.prabowo@example.com",
+      "phone": "+628123456799",
+      "address": "Jl. Letjen Suprapto No.19, Manado"
+    },
+    {
+      "customerId": 20,
+      "name": "Yulia Ningsih",
+      "email": "yulia.ningsih@example.com",
+      "phone": "+628123456700",
+      "address": "Jl. Sisingamangaraja No.20, Banda Aceh"
+    },
+    {
+      "customerId": 21,
+      "name": "Bagus Prasetya",
+      "email": "bagus.prasetya@example.com",
+      "phone": "+628123456701",
+      "address": "Jl. Basuki Rahmat No.21, Tasikmalaya"
+    },
+    {
+      "customerId": 22,
+      "name": "Melati Anggraini",
+      "email": "melati.anggraini@example.com",
+      "phone": "+628123456702",
+      "address": "Jl. Jendral Ahmad Yani No.22, Cirebon"
+    },
+    {
+      "customerId": 23,
+      "name": "Joko Susanto",
+      "email": "joko.susanto@example.com",
+      "phone": "+628123456703",
+      "address": "Jl. Veteran No.23, Kediri"
+    },
+    {
+      "customerId": 24,
+      "name": "Nia Kurniasih",
+      "email": "nia.kurniasih@example.com",
+      "phone": "+628123456704",
+      "address": "Jl. Kartini No.24, Purwokerto"
+    },
+    {
+      "customerId": 25,
+      "name": "Teguh Wicaksono",
+      "email": "teguh.wicaksono@example.com",
+      "phone": "+628123456705",
+      "address": "Jl. Pemuda No.25, Tegal"
+    },
+    {
+      "customerId": 26,
+      "name": "Rizky Maulana",
+      "email": "rizky.maulana@example.com",
+      "phone": "+628123456706",
+      "address": "Jl. Diponegoro No.26, Madiun"
+    },
+    {
+      "customerId": 27,
+      "name": "Indah Permatasari",
+      "email": "indah.permatasari@example.com",
+      "phone": "+628123456707",
+      "address": "Jl. Panglima Sudirman No.27, Banyuwangi"
+    },
+    {
+      "customerId": 28,
+      "name": "Reza Fahlevi",
+      "email": "reza.fahlevi@example.com",
+      "phone": "+628123456708",
+      "address": "Jl. Raya Bogor No.28, Bogor"
+    },
+    {
+      "customerId": 29,
+      "name": "Selvi Aprilia",
+      "email": "selvi.aprilia@example.com",
+      "phone": "+628123456709",
+      "address": "Jl. Kalimantan No.29, Jember"
+    },
+    {
+      "customerId": 30,
+      "name": "Aditya Firmansyah",
+      "email": "aditya.firmansyah@example.com",
+      "phone": "+628123456710",
+      "address": "Jl. Sumatra No.30, Cilegon"
+    }
+  ]
+  

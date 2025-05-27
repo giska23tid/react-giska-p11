@@ -1,0 +1,243 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "username": "alicej",
+      "phone": "081234567891",
+      "address": "Jl. Merdeka No. 1, Jakarta"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "email": "bob.smith@example.com",
+      "username": "bobsmith",
+      "phone": "081234567892",
+      "address": "Jl. Sudirman No. 2, Bandung"
+    },
+    {
+      "id": 3,
+      "name": "Carol Williams",
+      "email": "carol.williams@example.com",
+      "username": "carolw",
+      "phone": "081234567893",
+      "address": "Jl. Gatot Subroto No. 3, Surabaya"
+    },
+    {
+      "id": 4,
+      "name": "David Brown",
+      "email": "david.brown@example.com",
+      "username": "davidb",
+      "phone": "081234567894",
+      "address": "Jl. Thamrin No. 4, Yogyakarta"
+    },
+    {
+      "id": 5,
+      "name": "Eve Davis",
+      "email": "eve.davis@example.com",
+      "username": "eved",
+      "phone": "081234567895",
+      "address": "Jl. Ahmad Yani No. 5, Semarang"
+    },
+    {
+      "id": 6,
+      "name": "Frank Miller",
+      "email": "frank.miller@example.com",
+      "username": "frankm",
+      "phone": "081234567896",
+      "address": "Jl. Pemuda No. 6, Malang"
+    },
+    {
+      "id": 7,
+      "name": "Grace Wilson",
+      "email": "grace.wilson@example.com",
+      "username": "gracew",
+      "phone": "081234567897",
+      "address": "Jl. Diponegoro No. 7, Medan"
+    },
+    {
+      "id": 8,
+      "name": "Hank Moore",
+      "email": "hank.moore@example.com",
+      "username": "hankm",
+      "phone": "081234567898",
+      "address": "Jl. Pahlawan No. 8, Palembang"
+    },
+    {
+      "id": 9,
+      "name": "Ivy Taylor",
+      "email": "ivy.taylor@example.com",
+      "username": "ivyt",
+      "phone": "081234567899",
+      "address": "Jl. Jendral No. 9, Makassar"
+    },
+    {
+      "id": 10,
+      "name": "Jack Anderson",
+      "email": "jack.anderson@example.com",
+      "username": "jacka",
+      "phone": "081234567800",
+      "address": "Jl. Veteran No. 10, Denpasar"
+    },
+    {
+      "id": 11,
+      "name": "Karen Thomas",
+      "email": "karen.thomas@example.com",
+      "username": "karent",
+      "phone": "081234567811",
+      "address": "Jl. Proklamasi No. 11, Pekanbaru"
+    },
+    {
+      "id": 12,
+      "name": "Leo Jackson",
+      "email": "leo.jackson@example.com",
+      "username": "leoj",
+      "phone": "081234567812",
+      "address": "Jl. Dipatiukur No. 12, Pontianak"
+    },
+    {
+      "id": 13,
+      "name": "Mia White",
+      "email": "mia.white@example.com",
+      "username": "miaw",
+      "phone": "081234567813",
+      "address": "Jl. Khatib Sulaiman No. 13, Padang"
+    },
+    {
+      "id": 14,
+      "name": "Nick Harris",
+      "email": "nick.harris@example.com",
+      "username": "nickh",
+      "phone": "081234567814",
+      "address": "Jl. Sudirman No. 14, Banjarmasin"
+    },
+    {
+      "id": 15,
+      "name": "Olivia Martin",
+      "email": "olivia.martin@example.com",
+      "username": "oliviam",
+      "phone": "081234567815",
+      "address": "Jl. Asia Afrika No. 15, Balikpapan"
+    },
+    {
+      "id": 16,
+      "name": "Paul Thompson",
+      "email": "paul.thompson@example.com",
+      "username": "pault",
+      "phone": "081234567816",
+      "address": "Jl. Antasari No. 16, Manado"
+    },
+    {
+      "id": 17,
+      "name": "Queen Lee",
+      "email": "queen.lee@example.com",
+      "username": "queenl",
+      "phone": "081234567817",
+      "address": "Jl. Hasanuddin No. 17, Banda Aceh"
+    },
+    {
+      "id": 18,
+      "name": "Robert Clark",
+      "email": "robert.clark@example.com",
+      "username": "robertc",
+      "phone": "081234567818",
+      "address": "Jl. Gajah Mada No. 18, Mataram"
+    },
+    {
+      "id": 19,
+      "name": "Sophia Lewis",
+      "email": "sophia.lewis@example.com",
+      "username": "sophial",
+      "phone": "081234567819",
+      "address": "Jl. Soekarno-Hatta No. 19, Kupang"
+    },
+    {
+      "id": 20,
+      "name": "Tom Walker",
+      "email": "tom.walker@example.com",
+      "username": "tomw",
+      "phone": "081234567820",
+      "address": "Jl. Basuki Rahmat No. 20, Jayapura"
+    },
+    {
+      "id": 21,
+      "name": "Uma Hall",
+      "email": "uma.hall@example.com",
+      "username": "umah",
+      "phone": "081234567821",
+      "address": "Jl. Slamet Riyadi No. 21, Cirebon"
+    },
+    {
+      "id": 22,
+      "name": "Victor Allen",
+      "email": "victor.allen@example.com",
+      "username": "victora",
+      "phone": "081234567822",
+      "address": "Jl. MT Haryono No. 22, Ternate"
+    },
+    {
+      "id": 23,
+      "name": "Wendy Young",
+      "email": "wendy.young@example.com",
+      "username": "wendyy",
+      "phone": "081234567823",
+      "address": "Jl. Sisingamangaraja No. 23, Sorong"
+    },
+    {
+      "id": 24,
+      "name": "Xander King",
+      "email": "xander.king@example.com",
+      "username": "xanderk",
+      "phone": "081234567824",
+      "address": "Jl. Pattimura No. 24, Ambon"
+    },
+    {
+      "id": 25,
+      "name": "Yara Scott",
+      "email": "yara.scott@example.com",
+      "username": "yaras",
+      "phone": "081234567825",
+      "address": "Jl. Teuku Umar No. 25, Palu"
+    },
+    {
+      "id": 26,
+      "name": "Zane Green",
+      "email": "zane.green@example.com",
+      "username": "zaneg",
+      "phone": "081234567826",
+      "address": "Jl. Imam Bonjol No. 26, Kendari"
+    },
+    {
+      "id": 27,
+      "name": "Abel Baker",
+      "email": "abel.baker@example.com",
+      "username": "abelb",
+      "phone": "081234567827",
+      "address": "Jl. Sutan Syahrir No. 27, Gorontalo"
+    },
+    {
+      "id": 28,
+      "name": "Bella Carter",
+      "email": "bella.carter@example.com",
+      "username": "bellac",
+      "phone": "081234567828",
+      "address": "Jl. Raden Intan No. 28, Bengkulu"
+    },
+    {
+      "id": 29,
+      "name": "Caleb Mitchell",
+      "email": "caleb.mitchell@example.com",
+      "username": "calebm",
+      "phone": "081234567829",
+      "address": "Jl. Juanda No. 29, Serang"
+    },
+    {
+      "id": 30,
+      "name": "Diana Perez",
+      "email": "diana.perez@example.com",
+      "username": "dianap",
+      "phone": "081234567830",
+      "address": "Jl. Sultan Agung No. 30, Batam"
+    }
+  ]
+  
